@@ -1,1 +1,1 @@
-Noetebook to read NASA icechunk stores
+Notebook to read NASA icechunk stores
